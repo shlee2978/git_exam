@@ -1,0 +1,12 @@
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.exe
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.deps.json
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.runtimeconfig.json
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.runtimeconfig.dev.json
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.dll
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\bin\Debug\netcoreapp3.1\hello_git.pdb
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.AssemblyInfoInputs.cache
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.AssemblyInfo.cs
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.csproj.CoreCompileInputs.cache
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.dll
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.pdb
+C:\Users\shlee\source\repos\shlee2978\git_exam\hello_git\hello_git\obj\Debug\netcoreapp3.1\hello_git.genruntimeconfig.cache
